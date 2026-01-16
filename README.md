@@ -1,4 +1,4 @@
-[Python Web Application with MariaDB.pdf](https://github.com/user-attachments/files/24674208/Python.Web.Application.with.MariaDB.pdf)# Python Web Application with MariaDB and Load Balancer
+## Python Web Application with MariaDB and Load Balancer
 
 A scalable, high-availability Python Flask web application deployed on AWS with load balancing and dedicated database architecture.
 
