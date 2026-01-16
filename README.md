@@ -363,9 +363,9 @@ python-app-RDS-MariaDB-Project/
 
 ## Author
 
-KULDIP VAGHASIYA
-Cloud & DevOps Enthusiast
-Cloud Engineer Intern at CoreXtech
+- KULDIP VAGHASIYA 
+- Cloud & DevOps Enthusiast
+- Cloud Engineer Intern at CoreXtech
 
 ## Acknowledgments
 
